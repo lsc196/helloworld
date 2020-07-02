@@ -25,6 +25,10 @@ public class Controller {
 }
 
     public void ideatest(){
+        String s ="IDEA123123修改代码";
+    }
+    
+     public void ideatsadfest(){
         String s ="IDEA修改代码";
     }
 

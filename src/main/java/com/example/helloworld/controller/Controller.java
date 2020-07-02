@@ -17,6 +17,12 @@ public class Controller {
     }
     
     public void gittest(){
+        String s ="idea";
 }
+
+    public void ideatest(){
+        String s ="IDEA修改代码";
+    }
+
 
 }

@@ -32,14 +32,11 @@ public class Controller {
      public void ideatsadfest(){
         String s ="IDEA修改代码123123";
     }
-
-    public void ide123123atest(){
+ public void ideatsdest(){
         String s ="IDEA修545454改代码";
 
-        String s ="IDEA修改代码11111111111111111";
     }
-     public void ideatsad123fest(){
-        String s ="IDEA修改代码11111111111111111";
-    }
+
+ 
 
 }

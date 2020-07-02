@@ -20,7 +20,7 @@ public class Controller {
 
         String s ="idea";
         if (s.equals("idea")){
-
+            s="sagsa12312412";
         }
 }
 
@@ -28,5 +28,8 @@ public class Controller {
         String s ="IDEA修改代码";
     }
 
+    public void ideat213est(){
+        String s ="IDEA修改代码";
+    }
 
 }

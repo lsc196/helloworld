@@ -29,7 +29,10 @@ public class Controller {
     }
     
      public void ideatsadfest(){
-        String s ="IDEA修改代码";
+        String s ="IDEA修改代码11111111111111111";
+    }
+     public void ideatsad123fest(){
+        String s ="IDEA修改代码11111111111111111";
     }
 
 }

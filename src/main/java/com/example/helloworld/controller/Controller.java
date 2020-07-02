@@ -17,7 +17,7 @@ public class Controller {
     }
     
     public void gittest(){
-        String s ="idea";
+        String s ="idea，github再次修改";
 }
 
     public void ideatest(){

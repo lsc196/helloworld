@@ -18,18 +18,24 @@ public class Controller {
     
     public void gittest(){
 
-        String s ="idea";
+        String s ="idea123123";
         if (s.equals("idea")){
                 s="asdgjadsl;ganskgl;d";
         }
 }
 
     public void ideatest(){
-        String s ="IDEA123123修改代码";
+        String s ="IDEA修545454改代码";
+
     }
-    
+
      public void ideatsadfest(){
-        String s ="IDEA修改代码";
+        String s ="IDEA修改代码123123";
+    }
+
+    public void ide123123atest(){
+        String s ="IDEA修545454改代码";
+
     }
 
 }

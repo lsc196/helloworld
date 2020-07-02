@@ -20,11 +20,14 @@ public class Controller {
 
         String s ="idea";
         if (s.equals("idea")){
-
+                s="asdgjadsl;ganskgl;d";
         }
 }
 
     public void ideatest(){
+        String s ="IDEA修改代码";
+    }
+public void idedsatest(){
         String s ="IDEA修改代码";
     }
 

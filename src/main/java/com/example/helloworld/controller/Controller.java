@@ -37,6 +37,12 @@ public class Controller {
 
     }
 
- 
+
+    public void i(){
+        String s ="IDEA修545454改代码";
+
+    }
+
+
 
 }

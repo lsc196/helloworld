@@ -18,7 +18,7 @@ public class Controller {
     
     public void gittest(){
 
-        String s ="idea123123";
+        String s ="idea";
         if (s.equals("idea")){
                 s="asdgjadsl;ganskgl;d";
         }
@@ -36,6 +36,10 @@ public class Controller {
     public void ide123123atest(){
         String s ="IDEA修545454改代码";
 
+        String s ="IDEA修改代码11111111111111111";
+    }
+     public void ideatsad123fest(){
+        String s ="IDEA修改代码11111111111111111";
     }
 
 }

@@ -27,12 +27,5 @@ public class Controller {
     public void ideatest(){
         String s ="IDEA修改代码";
     }
-public void idedsatest(){
-        String s ="IDEA修改代码";
-    }
-
-    public void ideat213est(){
-        String s ="IDEA修改代码";
-    }
 
 }

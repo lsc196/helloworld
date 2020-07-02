@@ -15,5 +15,8 @@ public class Controller {
     public String index(){
         return "Hello World!";
     }
+    
+    public void gittest(){
+}
 
 }
